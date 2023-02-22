@@ -1,0 +1,5 @@
+FROM openjdk
+
+COPY MyUdpClient.java /deployments/
+
+CMD cd /deployments; java MyUdpClient.java; java MyUdpClient

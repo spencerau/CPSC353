@@ -1,0 +1,10 @@
+Hello
+There are 4 fields in the UPD header
+Each field is 16 bits long
+They are:
+Source Port number
+Destination Port number
+Length
+UDP Checksum
+Goodbye
+
