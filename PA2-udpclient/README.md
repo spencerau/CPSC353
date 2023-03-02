@@ -8,7 +8,6 @@ The information is sent through UDP Datagrams on port 9876.
 
 
 ## Identifying Information
-
 * Name: Spencer Au
 * Student ID: 2385256
 * Email: spau@chapman.edu
