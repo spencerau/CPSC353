@@ -10,3 +10,4 @@ mtchat/
 udpclient/
 .DS_Store
 *.xml
+*.json
