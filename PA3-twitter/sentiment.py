@@ -54,7 +54,7 @@ print('Example 1')
 print('Establish Authentication Credentials')
 
 # Open the JSON file and load its contents
-with open('data.json') as f:
+with open('keys.json') as f:
     data = json.load(f)
 
 # Access the values associated with the keys
