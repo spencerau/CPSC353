@@ -11,3 +11,5 @@ udpclient/
 .DS_Store
 *.xml
 *.json
+chatgame/
+twitter/

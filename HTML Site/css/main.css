@@ -1,0 +1,19 @@
+body { background-color:black;
+    font-family:'Century Gothic';
+    color: white;
+    text-align: center;
+}
+
+h1 {    font-size: 60px;
+}
+h2 {    font-size: 28px;
+}
+a {     color: white;
+    text-decoration: none;
+}
+a:visited{ color: yellow;
+}
+p {     font-size: 16px;
+}
+ul, li { list-style-type: none;
+}
